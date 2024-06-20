@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+}
+h2{ color: lime;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#Clock{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    font-size: 80px;
+    font-weight: bolder;
+    background-color: rgb(206, 85, 85);
+    padding: 20px;
+    letter-spacing: 7px;
+}
